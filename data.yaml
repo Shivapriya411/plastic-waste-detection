@@ -1,0 +1,6 @@
+path: ./datasets
+train: images
+val: images
+
+names:
+  0: plastic_bottle
