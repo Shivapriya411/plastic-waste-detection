@@ -99,6 +99,7 @@ The model successfully detects plastic waste objects and displays:
 Computer Science Student | AI & Machine Learning Enthusiast
 
 GitHub: https://github.com/Shivapriya411
-<img width="1246" height="1280" alt="image" src="https://github.com/user-attachments/assets/fa71de30-d4c7-40c7-aaa2-3ff7661e9a75" />
+<img width="796" height="1280" alt="image" src="https://github.com/user-attachments/assets/6fb64aa3-e96b-4aa2-bbfd-050388399d54" />
 <img width="1280" height="971" alt="image" src="https://github.com/user-attachments/assets/c133f0ed-5d59-4d21-8fd1-57a3b777952a" />
+<img width="1080" height="1163" alt="image" src="https://github.com/user-attachments/assets/9bd1ea0c-be1e-42aa-a6e2-24196ad1acaf" />
 
